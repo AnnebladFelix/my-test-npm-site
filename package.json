@@ -1,0 +1,19 @@
+{
+  "name": "my-test-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "school-proj-npm-rdm-no": "^2.0.0",
+    "webpack": "^5.85.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.3"
+  }
+}
